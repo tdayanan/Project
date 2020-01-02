@@ -15,3 +15,7 @@ The data set HMEQ reports characteristics and delinquency information for 5,960 
 The data was obtained from the website http://www.creditriskanalytics.net in csv format.
 
 
+
+The bank can apply the model to new loan applications to accept /reject the application . The accepted applicants will be evaluated based on financial capacity to estimate the amount of loan that can be provided to prevent default.
+
+
